@@ -1,0 +1,5 @@
+Operador unario
+Son operadores que incrementan o restan uno. puede haber un pre o un post incremento (++x, x++). 
+++
+--
+

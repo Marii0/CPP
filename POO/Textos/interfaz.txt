@@ -1,0 +1,15 @@
+interfaz: definicion, implementacion y ejecucion.
+
+definicion->programa.h
+implementacion->programa.cpp
+ejecucion->main.cpp
+
+Estos tres pasos es prgramacion funcional.
+
+PF:
+-modular -- que utilice funciones
+-reutilizable -- volver a utilizar las funciones
+-encapsulable
+-legible
+-instanciable
+

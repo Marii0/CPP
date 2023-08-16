@@ -1,0 +1,51 @@
+Clase.
+Una clase se entiende como un concepto de estructuras de datos. Una clase es un tipo de dato  abstracto (TAD), pero se relaciona con el concepto 
+de estrucra de datos.
+
+Estructura datos.
+Es la forma en como se organizan los datos siguiendo un patron o algoritmo.
+
+Estructuras de datos.
+-Lista
+-Pila
+-Fila o cola
+-Array
+
+Objeto.
+Un objeto es una instanciacion de una clase. En terminos de variables, una clase seria el tipo y un objeto seria la varible.
+
+Especificadores acceso.
+Privado,publico y protegido.
+
+Privado.
+Nada mas la clase puede acceder a los miembros de la clase.
+
+Publico.
+Los miembros publicos son accesible de cualquier lugar donde el objeto es visible.
+
+Protegido.
+Los miembros protegidos son accesibles de otros miembros de la misma clase, but ademas de miembros de sus clases derivadas.
+
+(::) operador de resolucion de alcance.
+
+Todo lo que esta adentro de la clase se llama INLINE y lo que esta afuera NOT-INLINE.
+
+Constructores.
+Sirven para inicializar un objeto y darle valores.
+Existen 3 maneras de inicializar un constructor.
+
+-----------------------------------------
+Darle un valor desde clase.
+
+public:
+    rectangle(int=0 , int=0);
+------------------------------------------ nos da la posiblidad que creemos un objeto ingresando unos valores o darles 0 por default.
+
+-------------EJEMPLO---------------------------
+class nombre{
+    especificar acceso 1: ---- si no se escribe se pone en privado!!
+    miembro 1;
+
+    especificar acceso 2:
+    miembro 2;
+}object name; ---- sirve para iniciar un objeto antes del main
