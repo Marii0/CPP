@@ -6,7 +6,6 @@ pol1                    pol2
 PENDIENTES
 sobrecarga de polinomio
 sobrecarga de numeros complejos
-mejorar juego de serpientes
 sobrecarga de tiempo
 sobrecarga de cita
 sobrecarga suscripcion
@@ -16,4 +15,6 @@ herencia composicion_fecha_tiempo_cita_empleado
 herencia estudiante_trabajador_estudiante_empleado
 
 polimorfismos verlo por mi cuenta
+
+Proyecto:)
 
